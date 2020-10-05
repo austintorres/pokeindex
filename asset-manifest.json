@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/pokeindex/static/css/main.f30be134.chunk.css",
-    "main.js": "/pokeindex/static/js/main.2b4059cb.chunk.js",
-    "main.js.map": "/pokeindex/static/js/main.2b4059cb.chunk.js.map",
+    "main.js": "/pokeindex/static/js/main.09bd3acc.chunk.js",
+    "main.js.map": "/pokeindex/static/js/main.09bd3acc.chunk.js.map",
     "runtime-main.js": "/pokeindex/static/js/runtime-main.9f53a946.js",
     "runtime-main.js.map": "/pokeindex/static/js/runtime-main.9f53a946.js.map",
     "static/js/2.314e901c.chunk.js": "/pokeindex/static/js/2.314e901c.chunk.js",
     "static/js/2.314e901c.chunk.js.map": "/pokeindex/static/js/2.314e901c.chunk.js.map",
     "index.html": "/pokeindex/index.html",
-    "precache-manifest.82f44c228064e7dbb8c730c0f71fed74.js": "/pokeindex/precache-manifest.82f44c228064e7dbb8c730c0f71fed74.js",
+    "precache-manifest.d3cf2b2208e9731530469f35979761fc.js": "/pokeindex/precache-manifest.d3cf2b2208e9731530469f35979761fc.js",
     "service-worker.js": "/pokeindex/service-worker.js",
     "static/css/main.f30be134.chunk.css.map": "/pokeindex/static/css/main.f30be134.chunk.css.map",
     "static/js/2.314e901c.chunk.js.LICENSE.txt": "/pokeindex/static/js/2.314e901c.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.9f53a946.js",
     "static/js/2.314e901c.chunk.js",
     "static/css/main.f30be134.chunk.css",
-    "static/js/main.2b4059cb.chunk.js"
+    "static/js/main.09bd3acc.chunk.js"
   ]
 }
