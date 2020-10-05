@@ -12,7 +12,7 @@ class Pokedex extends Component {
     }
     return (
       <div className="Pokedex">
-        <h1>Pokédex!</h1>
+        <h1>Pokédex Game! (v1)</h1>
         <h4>Total Experience: {this.props.exp}</h4>
         {title}
         <div className="Pokedex-cards">
